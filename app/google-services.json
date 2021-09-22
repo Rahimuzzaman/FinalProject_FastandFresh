@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979225492387",
+    "project_id": "fast-and-fresh-5e992",
+    "storage_bucket": "fast-and-fresh-5e992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979225492387:android:415f5dc8de01b7d995f816",
+        "android_client_info": {
+          "package_name": "com.example.fastfresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979225492387-8l3s7bombngi0j2ptg5taool1ubtg52d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQRjWrk0GxV-st63R-1Ne6t5NBz0bbdGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979225492387-8l3s7bombngi0j2ptg5taool1ubtg52d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
